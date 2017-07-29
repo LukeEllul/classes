@@ -31,5 +31,3 @@ export const mix = (propName, prop) => cl =>
     add(propName, prop)(cloneClass(cl));
 
 export const mixin = fn => cl => mix(fn.name, fn)(cl);
-
-hey hey
