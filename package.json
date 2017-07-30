@@ -1,0 +1,19 @@
+{
+  "name": "classes-utils",
+  "version": "1.0.0",
+  "description": "Javascript classes utilities",
+  "main": "classes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Ellul <ellul.luke@gmail.com>",
+  "license": "ISC",
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/LukeEllul/classes.git"
+
+  },
+  "author": "Luke Ellul <ellul.luke@gmail.com>"
+}
